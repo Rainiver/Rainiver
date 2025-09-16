@@ -9,7 +9,7 @@ I have a strong background in **3D computer vision, generative AI, and deep lear
 
 **Programming:** Python (PyTorch), C/C++, MATLAB, Verilog, LaTeX  
 **Developer Tools:** Linux, Git, Docker, VS Code, PyCharm  
-**Data & ML:** SQL, Pandas, NumPy, TensorFlow, Scikit-learn, PyTorch Lightning  
+**Data & ML:** SQL, Pandas, NumPy, TensorFlow, Scikit-learn
 **Web / Full-Stack:** React, Node.js, MongoDB, Express
 
 ---
