@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rainiver
 
-I’m an incoming **MPhil student in Data Intensive Science** at the University of Cambridge.  
+I’m an **MPhil student in Data Intensive Science** at the University of Cambridge.  
 I have a strong background in **3D computer vision, generative AI, and deep learning**, and I’m passionate about turning research into real-world applications.
 
 ---
